@@ -1,4 +1,6 @@
 # MyBashScripts
-This is a testing ground for github features and exploration !
+This is a testing ground for github !
 
-My Bash scripts are just too good!
+My Bash scripts are running
+
+My Bash scripts are executing in the shell
