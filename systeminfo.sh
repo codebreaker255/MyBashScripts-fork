@@ -11,4 +11,4 @@ echo "System Name: $( uname -a |cut -d " " -f2)"
 
 echo "CPU: $(lscpu | grep "Model name")
 
-echo "RAM: $(free -h)"
+echo -e "RAM: \n $(free -h)"
